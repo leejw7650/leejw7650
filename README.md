@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/bbak_ddu/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=Apple&logoColor=000000"/></a>
+<a href="https://www.instagram.com/bbak_ddu/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
 
 
 
