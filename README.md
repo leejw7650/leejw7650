@@ -2,7 +2,7 @@
 
 <a href="https://www.instagram.com/bbak_ddu/" target="_blank"><img src="https://img.shields.io/badge/bbak_ddu-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/></a>
 
-<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%9B%90-%EC%9D%B4-746253246/" target="_blank"><img src="https://img.shields.io/badge/이재원-#0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%9B%90-%EC%9D%B4-746253246/" target="_blank"><img src="https://img.shields.io/badge/이재원-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF"/></a>
 
 
 <!--
