@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/bbak_ddu/" target="_blank"><img src="https://img.shields.io/badge/bbak\_\ddu-E4405F?style=flat&logo=Instagram&logoColor=000000"/></a>
+<a href="https://www.instagram.com/bbak_ddu/" target="_blank"><img src="https://img.shields.io/badge/bbak_ddu-E4405F?style=flat&logo=Instagram&logoColor=000000"/></a>
 
 
 
