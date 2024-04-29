@@ -8,7 +8,7 @@ git init # git 초기화
 git add 파일명.확장자명 # add 파일(git add . 의 경우는 해당 폴더의 모든 파일)
 git status # 해당 폴더의 변경 사항 확인
 git commit -m "first commit" # add 된 파일 확인
-git remote add origin https://github.com/leejw7650/경로이름.git # github 의 repository 와 연결
+git remote add origin https://github.com/leejw7650/경로이름.git # github 의 repository 와 연결 # origin 대신 다른 이름으로 또 다른 레포에 연결 가능
 git remote -v # 연결 확인
 git push origin master # github 에 push 하기(master branch 로)
 # Username -> leejw7650 (이메일 X)
